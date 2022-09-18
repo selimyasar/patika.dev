@@ -7,7 +7,7 @@
 **output: [1,'a','cat',2,3,'dog',4,5]**
 
 
-```sh
+```python
 flat_list = []
 def flatten_list(x):
     for i in x:
